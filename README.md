@@ -12,6 +12,10 @@ We start from the use of several versions of YOLOv5 testing with various image r
 
 ![plot](yolov5_all_models_test.png)
 
+We compare the model ensemble against a version of yolov5 in different metrics.
+
+
+
 
 ## Terms of use
 This dataset can be used for academic research free of charge, citing the paper as we explain below. If you seek to use the data for commercial purposes please 
