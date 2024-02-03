@@ -15,7 +15,9 @@ We start from the use of several versions of YOLOv5 testing with various image r
 We compare the model ensemble against a version of yolov5 in different metrics.
 
 <p align="center">
-  <img src="ensemble_yolov5l_68_test_precision.png" />
+  <img src="ensemble_yolov5l_68_test_precision.png"  width="33%"/>
+  <img src="ensemble_yolov5l_68_test_recall.png"  width="33%"/>
+  <img src="ensemble_yolov5l_68_test_auc.png"  width="33%"/>
 </p>
 
 ## Terms of use
