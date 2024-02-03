@@ -14,8 +14,9 @@ We start from the use of several versions of YOLOv5 testing with various image r
 
 We compare the model ensemble against a version of yolov5 in different metrics.
 
-![plot](ensemble_yolov5l_68_test_precision.png) ![plot](ensemble_yolov5l_68_test_recall.png) ![plot](ensemble_yolov5l_68_test_auc.png)
-
+<p align="center">
+  <img src="ensemble_yolov5l_68_test_precision.png" />
+</p>
 
 ## Terms of use
 This dataset can be used for academic research free of charge, citing the paper as we explain below. If you seek to use the data for commercial purposes please 
