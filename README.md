@@ -20,6 +20,8 @@ We compare the model ensemble against a version of yolov5 in different metrics.
   <img src="ensemble_yolov5l_68_test_auc.png"  width="33%"/>
 </p>
 
+We share a small sample of the different types of damage that are part of the dataset that can be obtained through the form.
+
 ## Terms of use
 This dataset can be used for academic research free of charge, citing the paper as we explain below. If you seek to use the data for commercial purposes please 
 
