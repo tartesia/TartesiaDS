@@ -23,7 +23,7 @@ We compare the model ensemble against a version of yolov5 in different metrics.
 We share a small sample of the different types of damage that are part of the dataset that can be obtained through the form.
 
 ## Terms of use
-This dataset can be used for academic research free of charge, citing the paper as we explain below. If you seek to use the data for commercial purposes please 
+This dataset can be used free of charge for academic research, citing the document as explained below. If you wish to use the data for commercial purposes, please contact us.
 
 ## Citation
 
