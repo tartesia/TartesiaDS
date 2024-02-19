@@ -22,8 +22,8 @@ We compare the model ensemble against a version of yolov5 in different metrics.
 
 We share a small sample of the different types of damage that are part of the dataset that can be obtained through the form.
 
-#Dataset description
-Our public dataset contains 108 images, which are divided into 24 images of undamaged vehicles and 84 images with damage present.
+## Dataset description
+Our public dataset contains 108 images, which are divided into 24 images of undamaged vehicles and 84 images with damage present where 226 damages are labelled as scratches, 93 damages are labelled as deformations and 18 damages are labelled as other types of damages such as paint defects, missing parts and breakages.
 
 ## Terms of use
 This dataset can be used free of charge for academic research, citing the document as explained below. If you wish to use the data for commercial purposes, please contact us.
