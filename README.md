@@ -1,5 +1,5 @@
 # TartesiaDS
-Article repository: Automated damage assessment of automobiles using computer vision: Case of use in insurance companies.
+Article repository: [Automated damage assessment of automobiles using computer vision: Case of use in insurance companies.](https://www.mdpi.com/2076-3417/14/20/9560)
 
 To obtain the public dataset of vehicle damage, access the following link: https://docs.google.com/forms/d/e/1FAIpQLSdOm86Tn3hH2TQNlvQS6ghzFgEvSJoj9Tp_QpAlVXDrLhYFyQ/viewform?usp=sf_link
 
@@ -29,5 +29,18 @@ Our public dataset contains 108 images, which are divided into 24 images of unda
 This dataset can be used free of charge for academic research, citing the document as explained below. If you wish to use the data for commercial purposes, please contact us.
 
 ## Citation
+**MDPI and ACS Style**
 
-To be published
+Pérez-Zarate, S.A.; Corzo-García, D.; Pro-Martín, J.L.; Álvarez-García, J.A.; Martínez-del-Amor, M.A.; Fernández-Cabrera, D. Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. Appl. Sci. 2024, 14, 9560. https://doi.org/10.3390/app14209560
+
+**AMA Style**
+
+Pérez-Zarate SA, Corzo-García D, Pro-Martín JL, Álvarez-García JA, Martínez-del-Amor MA, Fernández-Cabrera D. Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. Applied Sciences. 2024; 14(20):9560. https://doi.org/10.3390/app14209560
+
+**Chicago/Turabian Style**
+
+Pérez-Zarate, Sergio A., Daniel Corzo-García, Jose L. Pro-Martín, Juan A. Álvarez-García, Miguel A. Martínez-del-Amor, and David Fernández-Cabrera. 2024. "Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case" Applied Sciences 14, no. 20: 9560. https://doi.org/10.3390/app14209560
+
+**APA Style**
+
+Pérez-Zarate, S. A., Corzo-García, D., Pro-Martín, J. L., Álvarez-García, J. A., Martínez-del-Amor, M. A., & Fernández-Cabrera, D. (2024). Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. Applied Sciences, 14(20), 9560. https://doi.org/10.3390/app14209560
