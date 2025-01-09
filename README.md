@@ -31,16 +31,16 @@ This dataset can be used free of charge for academic research, citing the docume
 ## Citation
 **MDPI and ACS Style**
 
-Pérez-Zarate, S.A.; Corzo-García, D.; Pro-Martín, J.L.; Álvarez-García, J.A.; Martínez-del-Amor, M.A.; Fernández-Cabrera, D. Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. Appl. Sci. 2024, 14, 9560. https://doi.org/10.3390/app14209560
+Pérez-Zarate, S.A.; Corzo-García, D.; Pro-Martín, J.L.; Álvarez-García, J.A.; Martínez-del-Amor, M.A.; Fernández-Cabrera, D. Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. *Appl. Sci.* **2024**, *14*, 9560. https://doi.org/10.3390/app14209560
 
 **AMA Style**
 
-Pérez-Zarate SA, Corzo-García D, Pro-Martín JL, Álvarez-García JA, Martínez-del-Amor MA, Fernández-Cabrera D. Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. Applied Sciences. 2024; 14(20):9560. https://doi.org/10.3390/app14209560
+Pérez-Zarate SA, Corzo-García D, Pro-Martín JL, Álvarez-García JA, Martínez-del-Amor MA, Fernández-Cabrera D. Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. *Applied Sciences*. 2024; 14(20):9560. https://doi.org/10.3390/app14209560
 
 **Chicago/Turabian Style**
 
-Pérez-Zarate, Sergio A., Daniel Corzo-García, Jose L. Pro-Martín, Juan A. Álvarez-García, Miguel A. Martínez-del-Amor, and David Fernández-Cabrera. 2024. "Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case" Applied Sciences 14, no. 20: 9560. https://doi.org/10.3390/app14209560
+Pérez-Zarate, Sergio A., Daniel Corzo-García, Jose L. Pro-Martín, Juan A. Álvarez-García, Miguel A. Martínez-del-Amor, and David Fernández-Cabrera. 2024. "Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case" *Applied Sciences* 14, no. 20: 9560. https://doi.org/10.3390/app14209560
 
 **APA Style**
 
-Pérez-Zarate, S. A., Corzo-García, D., Pro-Martín, J. L., Álvarez-García, J. A., Martínez-del-Amor, M. A., & Fernández-Cabrera, D. (2024). Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. Applied Sciences, 14(20), 9560. https://doi.org/10.3390/app14209560
+Pérez-Zarate, S. A., Corzo-García, D., Pro-Martín, J. L., Álvarez-García, J. A., Martínez-del-Amor, M. A., & Fernández-Cabrera, D. (2024). Automated Car Damage Assessment Using Computer Vision: Insurance Company Use Case. *Applied Sciences, 14*(20), 9560. https://doi.org/10.3390/app14209560
